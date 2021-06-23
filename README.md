@@ -6,20 +6,20 @@ A new Flutter application to tweet.
 
 Initial launch of the application consists of login page 
 User can signup or login(for the first time the user will be considered as signup and next will be login
-  ![Screenshot_1624442320](https://user-images.githubusercontent.com/3041724/123077481-b5018e80-d437-11eb-81ce-cf53ee48b57e.png)
-)
+![Screenshot_1624442757](https://user-images.githubusercontent.com/3041724/123078785-f181ba00-d438-11eb-87b9-fa2f2d450024.png)
+
 
 After successfull authentication user can able to see the home page with list of tweets posted in recent order if available or else a empty screen.
 Each tweet will display the content and option to edit and delete
 
-![Screenshot_1624435240](https://user-images.githubusercontent.com/3041724/123077966-25101480-d438-11eb-9329-5eeb880825f4.png)
+![Screenshot_1624442779](https://user-images.githubusercontent.com/3041724/123078822-fa728b80-d438-11eb-93b2-2999b78a1a00.png)
 
 Using the Pencil icon button at the right bottom of the screen user can able to navigate to the create new tweet screen
 
-![Screenshot_1624435221](https://user-images.githubusercontent.com/3041724/123078141-4f61d200-d438-11eb-86e4-c3751ea1c021.png)
+![Screenshot_1624442810](https://user-images.githubusercontent.com/3041724/123078846-01010300-d439-11eb-8c03-7be34aaace40.png)
 
 Once the the tweet is successfully posted/edited will display a alert dialog and one tapping the ok button will go back to the home screen.
 
-![Screenshot_1624435229](https://user-images.githubusercontent.com/3041724/123078170-5557b300-d438-11eb-94b7-389f7039f135.png)
+![Screenshot_1624442815](https://user-images.githubusercontent.com/3041724/123078865-05c5b700-d439-11eb-964d-ec1fa3f4034e.png)
 
 
