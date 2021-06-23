@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "832564853741",
+    "project_id": "onepersontwitter-9d820",
+    "storage_bucket": "onepersontwitter-9d820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832564853741:android:76206119a1961d96ed05e4",
+        "android_client_info": {
+          "package_name": "com.onepersontwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832564853741-cl39f9vqovssora3ji829fcm934lpi9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6_xzb7m3zCV_dnAc_2qe4ftC5G2CIiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832564853741-cl39f9vqovssora3ji829fcm934lpi9i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832564853741-tii4df5aj421heog8pkvi7lf3pkrc5ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onepersontwitter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
